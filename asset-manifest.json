@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HostWave/static/css/main.9fdbb100.css",
+    "main.js": "/HostWave/static/js/main.f47cdbd4.js",
+    "static/media/source.png": "/HostWave/static/media/source.34246bd54a5763dd376a.png",
+    "static/media/map.png": "/HostWave/static/media/map.efbcc659eb76df65a0c7.png",
+    "static/media/img1.png": "/HostWave/static/media/img1.73af4456143d7197da3c.png",
+    "static/media/img3.png": "/HostWave/static/media/img3.8ed2dc8e79fcba402c2b.png",
+    "static/media/img2.png": "/HostWave/static/media/img2.b68ab4e6455e890e292a.png",
+    "static/media/img4.png": "/HostWave/static/media/img4.6e5adb66ddf0894a56db.png",
+    "static/media/machine.png": "/HostWave/static/media/machine.3a6369b1249233c9b6ef.png",
+    "static/media/card2.png": "/HostWave/static/media/card2.94510f92ac13673cebfa.png",
+    "static/media/card4.png": "/HostWave/static/media/card4.0a470199ef409420a123.png",
+    "static/media/card3.png": "/HostWave/static/media/card3.2ab5c9340dd7615b9256.png",
+    "static/media/card1.png": "/HostWave/static/media/card1.ed29e6fcf448b3ea4c44.png",
+    "static/media/bg1.png": "/HostWave/static/media/bg1.fe793e4e83ce6aad9e63.png",
+    "static/media/bg2.png": "/HostWave/static/media/bg2.6107b1159517c4d15b34.png",
+    "index.html": "/HostWave/index.html",
+    "main.9fdbb100.css.map": "/HostWave/static/css/main.9fdbb100.css.map",
+    "main.f47cdbd4.js.map": "/HostWave/static/js/main.f47cdbd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fdbb100.css",
+    "static/js/main.f47cdbd4.js"
+  ]
+}
